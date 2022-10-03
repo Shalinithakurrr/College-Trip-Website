@@ -1,0 +1,21 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.6.3",
+    "parser": "^0.1.4",
+    "require": "^2.4.20"
+  },
+  "description": ""
+}
